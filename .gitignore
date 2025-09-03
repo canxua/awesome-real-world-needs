@@ -201,6 +201,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# PromptX
+#  PromptX is an AI-powered tool system for managing AI roles and resources
+.promptx/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
