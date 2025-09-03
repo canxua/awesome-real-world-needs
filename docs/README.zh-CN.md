@@ -14,7 +14,7 @@
 - [需求列表](#-需求列表)
 - [项目愿景](#-项目愿景)
 - [如何贡献](#-如何贡献)
-- [贡献者](#-贡献者)
+
 - [许可证](#-许可证)
 
 ## 🌐 数据来源
@@ -61,28 +61,6 @@
 2.  **贡献代码**：帮助我们编写或完善某个平台的**采集脚本** (Crawler)，代码在 [`/crawlers`](../crawlers) 目录。
 3.  **完善文档**：改进文档、翻译、修复错别字等。
 4.  **讨论与分享**：讨论需求实现的可行性，或者将这个项目分享给更多的人！
-
-## ✨ 贡献者
-
-感谢所有让这个项目变得更好的贡献者们！([emoji key](https://allcontributors.org/docs/en/emoji-key))
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/your-username"><img src="https://avatars.githubusercontent.com/u/your-avatar?v=4" width="100px;" alt="Your Name"/><br /><sub><b>Your Name (You)</b></sub></a><br /><a href="#projectManagement" title="Project Management">📆</a> <a href="#ideas" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content" title="Content">🖋</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-本项目遵循 [all-contributors](https://github.com/all-contributors/all-contributors) 规范，欢迎任何领域的贡献。
 
 ## 📄 许可证
 

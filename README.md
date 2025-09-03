@@ -20,7 +20,7 @@ English | [中文](docs/README.zh-CN.md)
 - [Needs List](#-needs-list)
 - [Project Vision](#-project-vision)
 - [How to Contribute](#-how-to-contribute)
-- [Contributors](#-contributors)
+
 - [License](#-license)
 
 ## 🌐 Data Sources
@@ -67,28 +67,6 @@ We greatly appreciate any form of contribution! Please read our [Contribution Gu
 2.  **Contribute Code**: Help us write or improve **crawler scripts** for a platform. Code is in the [`/crawlers`](/crawlers) directory.
 3.  **Improve Documentation**: Improve docs, translations, fix typos, etc.
 4.  **Discuss & Share**: Discuss the feasibility of needs, or share this project with more people!
-
-## ✨ Contributors
-
-Thanks to all contributors who make this project better! ([emoji key](https://allcontributors.org/docs/en/emoji-key))
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/your-username"><img src="https://avatars.githubusercontent.com/u/your-avatar?v=4" width="100px;" alt="Your Name"/><br /><sub><b>Your Name (You)</b></sub></a><br /><a href="#projectManagement" title="Project Management">📆</a> <a href="#ideas" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content" title="Content">🖋</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome.
 
 ## 📄 License
 
